@@ -134,7 +134,7 @@ float estimateBatteryPercent(float voltage) {
 
 
 
-
+![](./img/wiring.png)
 
 **전압 산출식**
 
